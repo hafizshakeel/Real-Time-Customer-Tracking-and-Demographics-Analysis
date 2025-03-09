@@ -174,10 +174,12 @@ cython_debug/
 artifacts/
 output/
 weights/
+data/*
+
 *.pt
 *.mp4
 *.mov
+# Exclude all GIFs except those in the assets folder
 *.gif
-data/*.mp4
-data/*.mov
+!assets/*.gif
 notes/*.ipynb
