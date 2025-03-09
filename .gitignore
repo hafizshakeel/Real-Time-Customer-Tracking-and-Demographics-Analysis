@@ -169,3 +169,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Project specific
+artifacts/
+output/
+weights/
+*.pt
+*.mp4
+*.mov
+*.gif
+data/*.mp4
+data/*.mov
+notes/*.ipynb
