@@ -1,4 +1,5 @@
-# 🚀 CustomerVision: Intelligent Customer Analytics Platform
+# 🏬📊 Real Time Customer Tracking and Demographics Analysis 
+
 ### Advanced Computer Vision System for Real-Time Customer Tracking and Demographic Insights
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -30,6 +31,11 @@
 - 🌋 Movement heatmap overlay
 - 📍 Object trajectory tracing
 - 🔲 Custom zone definition for targeted analytics
+
+## 🖥️ Interface Previews
+
+![Interface](assets/CT_UI_demo.png)
+
 
 ## 🚀 Quick Start
 
@@ -196,9 +202,4 @@ newgrp docker
 ## 📜 License
 Distributed under the MIT License. See `LICENSE` for more information.
 
----
-
-<div align="center">
-  <p>Need professional support? <a href="mailto:hafizshakeel1997@gmail.com">Contact Us</a></p>
-</div>
-```
+📩 **Need professional support?** [Contact me](mailto:hafizshakeel1997@gmail.com) for assistance.  
