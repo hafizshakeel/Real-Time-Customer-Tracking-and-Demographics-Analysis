@@ -180,22 +180,17 @@ newgrp docker
 - 🌐 Multi-camera synchronization
 - 🧠 On-device TensorRT optimization
 - 🔐 Privacy-preserving blur filter
-- 📱 Mobile-optimized web interface
 - 📈 Advanced behavioral analytics
 - 🔄 Real-time API for integration with other systems
 
 
-## 👏 Credits
-### Core Technologies
+## 🙏 Acknowledgments
 - [YOLOv8](https://github.com/ultralytics/ultralytics) - State-of-the-art object detection
 - [ByteTrack](https://github.com/ifzhang/ByteTrack) - Multi-object tracking
 - [InsightFace](https://github.com/deepinsight/insightface) - Demographics analysis
-- [OpenCV](https://opencv.org/) - Computer vision operations
 - [Streamlit](https://streamlit.io/) - Web interface framework
-- [PyTorch](https://pytorch.org/) - Deep learning framework
 - [Supervision](https://github.com/roboflow/supervision) - Computer vision utilities
-- [SciPy](https://scipy.org/) - Scientific computing library
-- **Special Thanks** to the open-source community
+- Special thanks to the open-source community!
 
 
 
