@@ -85,11 +85,7 @@ CUSTOMER-TRACKING/
 │   ├── 📂 components/      # Pipeline components
 │   ├── 📂 entity/          # Configuration schemas
 │   └── 📂 utils/           # Training utilities
-├── 📂 weights/             # Pre-trained model weights
-├── 📂 data/                # Sample data and test videos
-├── 📂 output/              # Output videos and results
 ├── 📄 app.py               # Streamlit web interface
-├── 📄 main.py              # Core processing script
 ├── 📄 zone.py              # Zone-based analytics tool
 ├── 📄 train.py             # Model training script
 └── 📄 requirements.txt     # Dependency management
