@@ -1,4 +1,4 @@
-# 🏬📊 Real Time Customer Tracking with Demographics Insights 
+# 🏬📊 Real-Time Customer Tracking with Demographics Insights 
 
 ### Advanced Computer Vision System for Real-Time Customer Tracking and Demographic Insights
 
