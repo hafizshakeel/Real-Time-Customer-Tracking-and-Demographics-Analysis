@@ -18,7 +18,7 @@
 | Component | Description | Technology Stack |
 |-----------|-------------|------------------|
 | **Customer Detection** | Real-time detection with configurable models | YOLOv8 • OpenCV |
-| **Multi-Object Tracking** | Robust cross-camera tracking | ByteTrack • Supervision |
+| **Multi-Object Tracking** | Robust multi-object tracking | ByteTrack • Supervision |
 | **Demographics Analysis** | Age & gender estimation | InsightFace • Deep Learning |
 | **Spatial Analytics** | Movement patterns & heatmaps | OpenCV • NumPy • SciPy |
 | **Zone-Based Analytics** | Define custom zones for targeted analysis | OpenCV • NumPy |
