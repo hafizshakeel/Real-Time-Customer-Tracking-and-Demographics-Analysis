@@ -63,8 +63,6 @@ python run.py --source_video_path input.mp4 --demographics --show_heatmap
 # Real-time Webcam
 python -m customer_tracker --source_video_path 0 --demographics
 
-# Zone-based Analytics
-python zone.py
 ```
 
 ## 🧩 Project Structure
@@ -86,7 +84,6 @@ CUSTOMER-TRACKING/
 │   ├── 📂 entity/          # Configuration schemas
 │   └── 📂 utils/           # Training utilities
 ├── 📄 app.py               # Streamlit web interface
-├── 📄 zone.py              # Zone-based analytics tool
 ├── 📄 train.py             # Model training script
 └── 📄 requirements.txt     # Dependency management
 ```
