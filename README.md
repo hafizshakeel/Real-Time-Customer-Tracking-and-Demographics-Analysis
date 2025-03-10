@@ -45,8 +45,8 @@
 ### 🛠 Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/customer-tracking.git
-cd customer-tracking
+git clone https://github.com/hafizshakeel/Real-Time-Customer-Tracking-with-Demographics-Insights
+cd Real-Time-Customer-Tracking-with-Demographics-Insights
 
 # Install dependencies
 pip install -r requirements.txt
